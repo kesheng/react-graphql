@@ -6,8 +6,9 @@ yarn add @apollo/client graphql
 
 yarn add graphql-anywhere apollo-link-rest
 
+# react-graphql
+
 `import { RestLink } from "apollo-link-rest";`
 `import { HttpLink } from "apollo-link-http";`
 HttpLink handles requests to your graphQL endpoint
 RestLink handles requests to one or more REST endpoints
-# react-graphql
